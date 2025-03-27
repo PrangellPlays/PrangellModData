@@ -1,0 +1,20 @@
+{
+  "players": [
+    { 
+      "uuid": "54d6d9f8-6104-4072-ad1e-5568d2d61995", 
+      "username": "Prangell"
+    },
+    { 
+      "uuid": "fa346138-10ac-48cf-ba53-c556ba983b9e", 
+      "username": "Skynovic"
+    },
+    { 
+      "uuid": "503af3b1-717c-4bfb-a087-614c2365bb28", 
+      "username": "PotatoBoy24"
+    },
+    { 
+      "uuid": "5b2ef434-5914-46aa-8dfd-9d56d1076996", 
+      "username": "Blimp_Tyler"
+    }
+  ]
+}
